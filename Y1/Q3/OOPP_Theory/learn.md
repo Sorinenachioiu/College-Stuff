@@ -16,13 +16,12 @@ agreement affects the ability of members to give alternatives a real chance.
 ![alt text](gol.png "title")
 
 ## Chair interventions
-- Naming process:  “I notice that we are digressing and running out of time. I
-think dnow how we're going to handle this"
+- Naming process:  “I notice that we are digressing and running out of time. I think it's important to decide now how we're going to handle this""
 - Invite to say something:  “I am curious about your opinion on this subject"
 - Give feedback: "I've heard you say this three times now. The point has been
 understood by all. Could you indicate what you still want to do with this?”
 
-# AID Model
+## AID Model
 ![alt text](aids.png "title")
 
 ## Johari Window
@@ -65,3 +64,5 @@ on abstractions." ![alt text](depInv.png "title")
 ## Serialization and Deserialization
 - deserialization - in utils
 - serialization - controller
+- initialize(in javaFX Controllers) - makes the controller of that fxml see that that fxml has loaded
+- stub(mockito) = piece of code that simulates the behavior of a software component or module that a piece of code being tested depends on
