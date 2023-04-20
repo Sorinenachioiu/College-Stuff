@@ -4,6 +4,9 @@
 # Tuckman's phases of group formation
 ![alt text](tzukurel.png "title")
 
+# Decision making
+![alt text](decision-making.png "title")
+
 # GroupThink
 
 # Five meeting goals
