@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679745193 source:d:\cse\delft\y1\q2\codeforces 837\fibonacci_matrices\matrices.cpp
+
+1679746023 source:d:\cse\delft\y1\q2\codeforces 837\fibonacci_matrices\main.cpp
+	<iostream>
+	<vector>
+	"matrices.h"
+
+1679746357 d:\cse\delft\y1\q2\codeforces 837\fibonacci_matrices\matrices.h
+	<vector>
+	<string>
+	<stdexcept>
+

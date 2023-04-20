@@ -1,19 +1,19 @@
 # Teamwork Modules
 ## Team success
-![alt text](beatles.png "title")
+![alt text](photos/beatles.png "title")
 
 ## Tuckman's phases of group formation
-![alt text](tzukurel.png "title")
+![alt text](photos/tzukurel.png "title")
 
 ## Decision making
-![alt text](decision-making.png "title")
+![alt text](photos/decision-making.png "title")
 
 ## GroupThink
 Groupthink is a form of thought in which the tendency to rush into
 agreement affects the ability of members to give alternatives a real chance.
 
 ## Five meeting goals
-![alt text](gol.png "title")
+![alt text](photos/gol.png "title")
 
 ## Chair interventions
 - Naming process:  “I notice that we are digressing and running out of time. I think it's important to decide now how we're going to handle this""
@@ -22,25 +22,25 @@ agreement affects the ability of members to give alternatives a real chance.
 understood by all. Could you indicate what you still want to do with this?”
 
 ## AID Model
-![alt text](aids.png "title")
+![alt text](photos/aids.png "title")
 
 ## Johari Window
-![alt text](gimme_hope_Joanaa.png "title")
+![alt text](photos/gimme_hope_Joanaa.png "title")
 
 # Project Management
 ## Waterfall Model
-![alt text](cascada.png "title")
+![alt text](photos/cascada.png "title")
 
 ## Agile
-![alt text](agilu.png "title")
+![alt text](photos/agilu.png "title")
 
 ## SCRUM
-![alt text](tigi.png "title")
+![alt text](photos/tigi.png "title")
 - Sprint is the period when you get updates on the project, the goal is that at the end of the sprint you create a shipeable product("an increment")
 - The development time when there is no interferance with the stakeholders
 - The daily scrum when developers meet
 
-![alt text](reviewScrum.png "title")
+![alt text](photos/reviewScrum.png "title")
 
 - Sprint retrospective, you search for how to improve
 
@@ -57,7 +57,7 @@ understood by all. Could you indicate what you still want to do with this?”
 no longer depends on
 the low-level code.
 Instead, both depend
-on abstractions." ![alt text](depInv.png "title")
+on abstractions." ![alt text](photos/depInv.png "title")
 - Dependency Injection Types: Field and Constructor injections
 
 # Maybe good to know 
