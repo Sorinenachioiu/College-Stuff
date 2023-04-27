@@ -1,5 +1,76 @@
-<link rel="stylesheet" type="text/css" href="../styles.css">
+<style>
+body {
+    font-size: 1.15em;
+}
 
+h1{
+    font-size: 2.5em;
+}
+
+h2{font-size: 2.25em;}
+
+h3{font-size: 1.75em;}
+
+
+
+a {
+    color: #1e90ff;
+}
+
+blockquote {
+    border-left: 0.25em solid #444;
+    padding-left: 1em;
+    color: #ccc;
+}
+
+code {
+    font-family: "Consolas", monospace;
+    background-color: #333;
+    color: aliceblue;
+    padding: 0.25em;
+    font-size: 1em;
+}
+
+pre code {
+    background-color: transparent;
+}
+
+.term {
+    font-weight: bold;
+    color: #1e90ff;
+}
+
+.definition {
+    font-style: italic;
+    color: #ccc;
+}
+
+.exclamation {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 50%;
+    background-color: #d34917;
+    color: #fff;
+    font-size: 1.25em;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 0.5em;
+    box-shadow: 0 0.1em 0.3em rgba(0, 0, 0, 0.3);
+}
+
+.important {
+    background-color: rgba(255,69,0,0.1);
+    padding: 0.25em;
+    border-radius: 0.25em;
+    margin: 0.25em 0;
+    display: inline-block;
+    font-size: 1em;
+}
+
+</style>
 # 1.Effective and systematic software testing
 
 <img src="img/testingWorkflow.png" alt="Effective testing" width="75%">
@@ -30,7 +101,9 @@ maximize the number of bugs found while minimizing the resources we spend on fin
 </span>
 
 <span class="term">Pesticide paradox </span>
-<span class="definition"> - every method you use to prevent or find bugs leaves a residue of subtler bugs against which those methods are ineffectual.<span class="important"><span class="exclamation">!</span> Testers
+<span class="definition"> - every method you use to prevent or find bugs leaves a residue of subtler bugs against which those methods are ineffectual. 
+
+<span class="important"><span class="exclamation">!</span> Testers
 must use different testing strategies to minimize the number of bugs left in the software.</span> </span>
 
 <span class="important"><span class="exclamation">!</span> No matter what testing you do, it will never be perfect or enough
@@ -109,3 +182,12 @@ boundary that belongs to the partition the on point does not belong to.</span>
 <span class="important"><span class="exclamation">!</span>  How far should specification testing go? \
 <span class="definition"> If the cost is high, it may be
 wise to invest more in testing, explore more corner cases, and try different techniques to ensure quality. But if the cost is low, being less thorough may be good enough. </span></span>
+
+
+https://cppi.sync.ro/materia/programare_dinamica_0.html
+
+https://catalin.francu.com/Academics/MITclasses.html
+
+http://courses.csail.mit.edu/6.857/2020/handouts
+
+http://www.ai.mit.edu/courses/6.863/

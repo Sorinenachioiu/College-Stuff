@@ -4,7 +4,7 @@ A treap is a tree having the property that any node has two values associated wi
 
 If we only look at the keys of the Vertexes, not taking into consideration the priorities, then it is a BST.
 
-If we only take into account the priorities, then it is a max-heap.
+If we only take into account the priorities, then it is a max/min-heap.
 
 ![Alt text](img/treap.png)
 
