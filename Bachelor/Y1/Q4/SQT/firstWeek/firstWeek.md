@@ -66,7 +66,7 @@ components of a system together, focusing on the interactions between them inste
 <span class="definition"> - Test the entire
 system together, including all of its classes, dependencies, database , web services, ands whatever other components it may have.</span>
 
-<img src="img/unitTesting.png" alt="Effective testing" width="75%">
+<img src="img/systemTesting.png" alt="Effective testing" width="75%">
 
 
 # 2.Specification-based testing
