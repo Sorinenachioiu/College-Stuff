@@ -1,0 +1,70 @@
+body {
+    font-size: 1.15em;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+h2{font-size: 2.25em;}
+
+h3{font-size: 1.75em;}
+
+
+
+a {
+    color: #1e90ff;
+}
+
+blockquote {
+    border-left: 0.25em solid #444;
+    padding-left: 1em;
+    color: #ccc;
+}
+
+code {
+    font-family: "Consolas", monospace;
+    background-color: #333;
+    color: aliceblue;
+    padding: 0.25em;
+    font-size: 1em;
+}
+
+pre code {
+    background-color: transparent;
+}
+
+.term {
+    font-weight: bold;
+    color: #1e90ff;
+}
+
+.definition {
+    font-style: italic;
+    color: #ccc;
+}
+
+.exclamation {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 50%;
+    background-color: #d34917;
+    color: #fff;
+    font-size: 1.25em;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 0.5em;
+    box-shadow: 0 0.1em 0.3em rgba(0, 0, 0, 0.3);
+}
+
+.important {
+    background-color: rgba(255,69,0,0.1);
+    padding: 0.25em;
+    border-radius: 0.25em;
+    margin: 0.25em 0;
+    display: inline-block;
+    font-size: 1em;
+}
