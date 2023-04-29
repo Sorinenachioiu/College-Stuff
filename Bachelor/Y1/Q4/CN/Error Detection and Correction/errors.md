@@ -60,4 +60,46 @@ In case of odd parity or 1s complement checksum, the result should be all 1s bec
 word with even parity is used, the result should be all 0s as we XOR the checksum with itself.
 If the computation has the expected result, the receiver removes the checksum and processes the message assuming it is correct.</span>
 
+### 1.2Comparison
 
+<table>
+  <thead>
+    <tr>
+      <th>Algorithm</th>
+      <th>Overhead</th>
+      <th>False Positive Rate</th>
+      <th>False Negative Rate</th>
+      <th>Complexity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Parity Bits</td>
+      <td>Low</td>
+      <td class="highlight">High</td>
+      <td>Low</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Parity Words and Internet Checksum</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>CRC</td>
+      <td>High</td>
+      <td>Low</td>
+      <td class="highlight">High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Reed-Solomon</td>
+      <td>High</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>High</td>
+    </tr>
+  </tbody>
+</table>
