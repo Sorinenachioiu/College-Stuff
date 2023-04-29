@@ -30,7 +30,26 @@ b. We are not sure if the received bit sequence is correct. Even though no erros
 <img src="tutorialQuestions/q1InternetChecksum.png">
 Oioioioi...
 
-The sum is: 1
+The sum is: 
+
+| Sum |
+| ------ |
+| x x x 1 0 1 1 0 1 0 0 |
+| x x x 0 0 0 1 0 1 1 1 |
+| x x x 1 0 0 0 1 0 1 1 |
+| x x x 0 1 1 1 0 1 1 1 |
+| x x x 0 1 0 0 1 0 1 1 |
+| x x x 1 1 1 1 1 0 0 1 + |
+| --------------------- |
+| x x x 0 0 0 1 0 0 0 1 = sum |
+| x 1 1 0 0 0 0 0 0 0 0 = r |
+| --------------------- |
+| sum + r = result|
+| 0 0 0 1 0 0 0 1      |
+| 0 0 0 0 0 0 1 1      |
+|                      |
+| 0 0 0 1 0 1 0 0 = result |
+| 1 1 1 0 1 0 1 1 = result after 1's complement|
 
 
 
