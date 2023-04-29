@@ -55,9 +55,12 @@ The sum is:
 
 ## Q1 CRC
 <img src="tutorialQuestions/q1CRC.png">
+idk?=) not sure how the division work
 
 ## Q2 CRC
 <img src="tutorialQuestions/q2CRC.png">
+see if the division by the generator has no remainder
 
 ## Q3 CRC
 <img src="tutorialQuestions/q3CRC.png">
+first compute the CRC so that you know what message you send to the data-link layer, then you add the parity bit to it.
