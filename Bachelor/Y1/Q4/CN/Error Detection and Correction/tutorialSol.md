@@ -1,3 +1,4 @@
+# Error detection
 ## Q1 Parity bits
 <img src="tutorialQuestions/q1ParityBits.png">
 
@@ -64,3 +65,16 @@ see if the division by the generator has no remainder
 ## Q3 CRC
 <img src="tutorialQuestions/q3CRC.png">
 first compute the CRC so that you know what message you send to the data-link layer, then you add the parity bit to it.
+
+# Error correction
+## Q1 Parity Blocks
+<img src="tutorialQuestions/q1ParityBlocks.png">
+
+<img src="tutorialQuestions/parityBlocksSol.jpg">
+
+
+## Q1 Hamming Code
+<img src="tutorialQuestions/q1HammingCode.png">
+
+## Q2 Hamming Code
+<img src="tutorialQuestions/q2HammingCode.png">
