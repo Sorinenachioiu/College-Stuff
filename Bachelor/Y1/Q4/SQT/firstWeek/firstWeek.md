@@ -88,7 +88,7 @@ boundary that belongs to the partition the on point does not belong to.</span>
 <span class="definition"> -  points that make the condition false.</span>
 
 # The seven steps of specification-based testing
-<img src="img/specificationTests.png" alt="Effective testing" width="75%">
+<img src="img/specificationTests.png" alt="Effective testing">
 
 1.<span class="term"> Understand the requirement, inputs, and outputs  </span>
 <span class="definition"> - make an overall idea about what needs to be tested.</span>
