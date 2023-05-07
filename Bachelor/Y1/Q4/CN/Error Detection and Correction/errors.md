@@ -46,7 +46,7 @@ received message is correct. They remove the last bit and process the actual mes
 
 The algorithm works as follows:
 - <span class="term"> Preparation </span>
-<span class="definition"> Sender and receiver agree on the block length k, and possibly an algorithm for padding if the message length is not a multiple of k<sup>3</sup>. For parity words, they further agree on the parity.</span> 
+<span class="definition"> Sender and receiver agree on the block length k, and possibly an algorithm for padding if the message length is not a multiple of k. For parity words, they further agree on the parity.</span> 
 - <span class="term"> Sender </span>
 <span class="definition"> has the (potentially padded) message M whose length m is a multiple of k. The sender splits the message into l = m/k blocks of length k, such that the first block are the first k bits, the second block are the second k bits and so on. Afterwards, the sender arranges the blocks in a table/matrix, with each block corresponding to one row. \
 For the internet checksum, the sender follows the same steps, apart from the use of the bitwise XOR.

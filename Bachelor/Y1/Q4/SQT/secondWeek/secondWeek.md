@@ -69,3 +69,27 @@ this criterion if and only if for every loop</span>
 ## Mutation Testing
 <span class="term"> Mutation Testing</span>
 <span class="definition"> - purposefully inserting a bug in the existing code and checking whether the test suite breaks.</span>
+
+### How pitest mutates things
+
+<img src="img/whatPitestDoes.png" alt="Effective testing">
+
+# 4. Designing contracts
+<span class="term"> Contracts </span><span class="definition"> - Clearly establish what the class requires as pre-conditions, what the class provides as post-conditions, and what invariants always hold for the class </span>
+
+## Pre-conditions and post-conditions
+<span class="term">Pre-conditions</span><span class ="definition">- Ensure that the input values received by a method adhere to what it requires.</span>
+
+<span class="term">Post-conditions</span><span class ="definition">- Ensure that the method returns what it promises to other methods.</span>
+
+<span class="important"><span class="exclamation">!</span> Strong and weak pre- and post-conditions. (they exist =))) </span> 
+
+## Invariants
+
+<span class="important"><span class="exclamation">!</span> Pre-conditions should hold before a method’s execution, and post-conditions should hold after a method’s execution. Now we move on to conditions that must always hold before and after a method’s execution. </span> 
+
+## Changing contracts, and the Liskov substitution principle
+
+<span class="term">Liskov substitution principle (LSP)</span><span class ="definition">- A subclass may be used as a substitution for a base class without breaking the expected behavior of the system.</span>
+
+

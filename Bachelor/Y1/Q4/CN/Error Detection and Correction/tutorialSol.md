@@ -56,7 +56,7 @@ The sum is:
 
 ## Q1 CRC
 <img src="tutorialQuestions/q1CRC.png">
-idk?=) not sure how the division work
+<img src="tutorialQuestions/Test-64.jpg">
 
 ## Q2 CRC
 <img src="tutorialQuestions/q2CRC.png">
