@@ -7,7 +7,7 @@
 <!-- <span class="term"> </span>
 <span class="definition"> </span>
 <span class="important"><span class="exclamation">!</span> </span> -->
-
+ 
 <span class="term"> Example-based Testing </span>
 <span class="definition"> - Pick one concrete example from all the possible ones.</span>
 
