@@ -16,3 +16,14 @@
 
 ## Example of Property-based Testing
 <img src="img/indexOfPropertyBasedTesting.png" alt="Property-based testing">
+
+## Actions and ActionSequences
+
+
+<img src="img/addAction.png" alt="Property-based testing">
+<img src="img/removeAction.png" alt="Property-based testing">
+<img src="img/instantiatingAddActions.png" alt="Property-based testing">
+<img src="img/finalSteps.png" alt="Property-based testing">
+
+## How to test for invalidity
+<img src="img/invalidTesting.png" alt="Property-based testing">
