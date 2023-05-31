@@ -47,7 +47,7 @@ the instruction is evaluated.</span>
 <span class="term"> Path Coverage</span>
 <span class="definition">- Covers all the possible paths of execution of the program.</span>
 
-<span class="important"><span class="exclamation">!</span>While ideally this is the strongest criterion, it is often impossible or too expensive to achieve. </span>
+<span class="important"><span class="exclamation">!</span>While ideally this(path coverage) is the strongest criterion, it is often impossible or too expensive to achieve. </span>
 
 ##  Complex conditions and the MC/DC coverage criterion
 
