@@ -9,8 +9,7 @@
 # 7.Design for Testability
 
 <span class="term"> Testability </span>
-<span class="definition"> 
-- How easy it is to write automated tests for the system, class, or method under test.</span>
+<span class="definition"> - How easy it is to write automated tests for the system, class, or method under test.</span>
 
 <span class="important"><span class="exclamation">!</span> Separate infrastructure code
 from domain code.</span> 
@@ -19,7 +18,7 @@ from domain code.</span>
 
 <span class="term"> Infrastructure</span> <span class="definition"> - Code that handles an external dependency</span>
 
-## Hexagonal Architecutre (Ports and Adapters)
+## Hexagonal Architecture  (Ports and Adapters)
 <span class="term"> Ports</span><span class="definition">  - Interfaces that define what the infrastructure can do and enable the application to get information from or send information to something else.<span class="important">They are completely separated from the implementation of the infrastructure.</span></span>
 
 <span class="term"> Adapters </span>
