@@ -23,7 +23,7 @@
     - <span class="definition">Values that participate in aggregate functions  </span>
     - <span class="definition">Other expressions  </span>
 - <span class="term"> Checking the outputs </span>
-- <span class="term"> Checking the database constraints </span>
+- <span class="term"> Checking the database constraints</span>
 
 ## Writing automated tests for SQL queries
 
