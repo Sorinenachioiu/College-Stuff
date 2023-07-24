@@ -76,6 +76,9 @@ expressive API. (The trick that allows methods to be chained is to return the
 class in the methods (methods return this), as shown in the following listing)</span>
 <img src="img/Test data Builder.png" alt="Effective testing">
 
+<img src="img/DataBuilderUsed.png" alt="Effective testing">
+
+
 ## Test smells
 
 <span class="term"> code smell </span><span class="definition">- indicates symptoms that may indicate deeper problems in the system’s source code</span>
